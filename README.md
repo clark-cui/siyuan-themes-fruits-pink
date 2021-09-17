@@ -1,2 +1,4 @@
 # siyuan-themes-fruits-pink
-this is a siyuan theme
+this is a pink siyuan theme
+## preview
+![preview](./preview.png)
