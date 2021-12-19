@@ -1,4 +1,4 @@
 # siyuan-themes-fruits-pink
-this is a pink theme for siyuan
+his is a pink theme for [siyuan](https://github.com/siyuan-note/siyuan)
 ## preview
 ![preview](./preview.png)
